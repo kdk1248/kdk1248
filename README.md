@@ -14,4 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center">
+  <img src="https://github.com/kdk1248/kdk1248/assets/101691440/92118a53-c5b6-40bc-b130-bf8c398d7b51" />
+</div>
+
 ![kdk1248's GitHub stats](https://github-readme-stats.vercel.app/api?username=kdk1248&count_private=true&show_icons=true&theme=onedark)

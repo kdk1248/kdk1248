@@ -19,3 +19,4 @@ Here are some ideas to get you started:
 </div>
 
 ![kdk1248's GitHub stats](https://github-readme-stats.vercel.app/api?username=kdk1248&count_private=true&show_icons=true&theme=onedark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kdk1248&layout=compact&theme=onedark)

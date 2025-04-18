@@ -1,12 +1,3 @@
-<div style="position: relative; display: inline-block;">
-  <img src="https://camo.githubusercontent.com/732a2f71fed4513848e33fe58bdcbbc475e7a225c03c3e72e07a26f0ecaf61d5/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e67266865696768743d32303026746578743d576176696e672126666f6e74416c69676e3d383026666f6e74416c69676e593d343026636f6c6f723d6772616469656e74" alt="Dakong's Repository" />
-  <div style="position: absolute; top: 20px; left: 20px; color: white; font-size: 30px; font-weight: bold; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);">
-    DaKong's Repository
-  </div>
-</div>
-
-
-
 ## 👋 Hi there! I'm **다콩씨**
 
 프론트엔드부터 백엔드까지, 호기심으로 가득한 개발자입니다.  

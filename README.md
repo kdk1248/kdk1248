@@ -36,8 +36,8 @@
 
 ## 📊 GitHub Stats
 
-![DaKong's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kdk1248&show_icons=true&theme=default&count_private=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kdk1248&layout=compact&theme=default)
+![DaKong's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kdk1248&show_icons=true&theme=solarized-light&count_private=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kdk1248&layout=compact&theme=solarized-light)
 
 ---
 
@@ -45,8 +45,7 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-alice3976@g.hongik.ac.kr-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:alice3976@g.hongik.ac.kr)
 
-
 ---
 
 <!-- footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=AEE2FF+E3F4FF+F0F8FF&height=150&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=CAF0F8+ADE8F4+90E0EF&height=150&section=footer" />

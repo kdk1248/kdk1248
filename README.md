@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=FCE4EC,B3E5FC,C8E6C9&text=Hi%20👋%20I'm%20DaKong!&fontColor=444444&fontSize=40&fontAlign=50&fontAlignY=35&descAlign=50&descAlignY=60&descSize=20" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=FCE4EC,B3E5FC,C8E6C9&text=Hi%20I'm%20DaKong!&fontColor=444444&fontSize=40&fontAlign=50&fontAlignY=35&descAlign=50&descAlignY=60&descSize=20" />
 
 ## 👋 Hi there! I'm **다콩씨**
 

@@ -1,5 +1,4 @@
-[<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome%20&fontSize=90" />
-](https://camo.githubusercontent.com/732a2f71fed4513848e33fe58bdcbbc475e7a225c03c3e72e07a26f0ecaf61d5/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e67266865696768743d32303026746578743d576176696e672126666f6e74416c69676e3d383026666f6e74416c69676e593d343026636f6c6f723d6772616469656e74)
+<img src="https://capsule-render.vercel.app/api?type=wave&color=FFF9C4,E0F7FA,C8E6C9&height=200&section=header&text=Hello,%20World!%20I'm%20DaKong!&fontSize=40&fontAlign=70&fontColor=4A4A4A" />
 
 ## 👋 Hi there! I'm **다콩씨**
 

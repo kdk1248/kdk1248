@@ -1,7 +1,5 @@
-<!--타이틀 부분-->
-<div align="center">
-  <img src="https://github.com/kdk1248/kdk1248/assets/101691440/92118a53-c5b6-40bc-b130-bf8c398d7b51" />
-</div>
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
+
 
 ## 👋 Hi there! I'm **다콩씨**
 
@@ -49,5 +47,4 @@
 
 ---
 
-<!-- footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=CAF0F8+ADE8F4+90E0EF&height=150&section=footer" />
+

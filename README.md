@@ -1,5 +1,5 @@
 <!-- header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=AEE2FF+E3F4FF+F0F8FF&height=200&section=header&text=Hello,%20World!%20I'm%20DaKong!&fontSize=40&fontAlign=70&fontColor=003366" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=CAF0F8+ADE8F4+90E0EF&height=200&section=header&text=Hello,%20World!%20I'm%20DaKong!&fontSize=40&fontAlign=70&fontColor=003366" />
 
 ## 👋 Hi there! I'm **다콩씨**
 

@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=FFF9C4,E0F7FA,C8E6C9&height=200&section=header&text=Hello,%20World!%20I'm%20DaKong!&fontSize=40&fontAlign=70&fontColor=4A4A4A" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=C8E6C9,E0F7FA,FFF9C4&height=150&section=footer" />
 
 ## 👋 Hi there! I'm **다콩씨**
 

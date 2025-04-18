@@ -1,5 +1,5 @@
-<!-- header 이미지 (밝은 테마용) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=B573DF,F0F8FF&height=200&section=header&text=Hello,%20World!%20I'm%20DaKong!&fontSize=40&fontAlign=70&fontColor=003366" />
+<!-- header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=AEE2FF,E3F4FF,F0F8FF&height=200&section=header&text=Hello,%20World!%20I'm%20DaKong!&fontSize=40&fontAlign=70&fontColor=003366" />
 
 ## 👋 Hi there! I'm **다콩씨**
 
@@ -48,5 +48,5 @@
 
 ---
 
-<!-- footer 이미지 (밝은 테마용) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=CCE5FF,F0F8FF&height=150&section=footer" />
+<!-- footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=AEE2FF,E3F4FF,F0F8FF&height=150&section=footer" />

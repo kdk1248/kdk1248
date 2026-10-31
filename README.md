@@ -1,5 +1,13 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:FF6B6B,100:FFB88C&height=160&section=header&text=DaKong's%20Github&fontSize=42&fontColor=ffffff&fontAlignY=55" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF9A8B,50:FF6A88,100:FF99AC&height=240&section=header&text=Dakyung%20Kim&fontSize=62&fontColor=ffffff&fontAlignY=36&desc=Turning%20ideas%20into%20reality&descSize=18&descAlignY=56&animation=fadeIn" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FF6A88&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Flutter+%C2%B7+Firebase+%C2%B7+FastAPI;Building+Oddo+%F0%9F%8D%85" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kdk1248&color=FF6A88&style=flat-square&label=Visitors" />
 </p>
 
 <p align="center">
@@ -92,16 +100,19 @@
 ## 🔥 GitHub 활동
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kdk1248&theme=github-compact&hide_border=true&area=true" width="90%"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kdk1248/kdk1248/output/github-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/kdk1248/kdk1248/output/github-snake.svg" width="90%" />
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kdk1248&show_icons=true&count_private=true&theme=github_dark&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kdk1248&layout=donut&theme=github_dark&hide_border=true" height="170"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kdk1248&theme=github_dark" height="170"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kdk1248&theme=github_dark" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=kdk1248&theme=dark&hide_border=true" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=kdk1248&theme=dark&hide_border=true&ring=FF6A88&fire=FF6A88&currStreakLabel=FF6A88" height="170"/>
 </p>
 
 <br/>
@@ -112,4 +123,8 @@
   <a href="mailto:kdk12483@naver.com"><img src="https://img.shields.io/badge/Naver%20Mail-03C75A?style=for-the-badge&logo=naver&logoColor=white"/></a>
   <a href="mailto:alice3976@g.hongik.ac.kr"><img src="https://img.shields.io/badge/Hongik%20Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://festive-erica-603.notion.site/7b69beb0353383cc85438135810d0f56"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF9A8B,50:FF6A88,100:FF99AC&height=120&section=footer" />
 </p>
